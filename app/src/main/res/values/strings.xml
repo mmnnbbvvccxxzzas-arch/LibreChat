@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Build X</string>
+    
+    <!-- Onboarding Strings -->
+    <string name="onboarding_title_1">مرحباً بك في Build X</string>
+    <string name="onboarding_desc_1">تطبيق ذكاء اصطناعي متطور لمساعدتك في حياتك اليومية</string>
+    
+    <string name="onboarding_title_2">محادثات ذكية</string>
+    <string name="onboarding_desc_2">تحدث مع المساعد الذكي وأحصل على إجابات دقيقة لجميع استفساراتك</string>
+    
+    <string name="onboarding_title_3">تخصيص كامل</string>
+    <string name="onboarding_desc_3">خصص المساعد الذكي ليناسب احتياجاتك واهتماماتك الشخصية</string>
+    
+    <string name="next">التالي</string>
+    <string name="skip">تخطي</string>
+    <string name="get_started">ابدأ الآن</string>
+    
+    <!-- Guest Mode Strings -->
+    <string name="guest_mode_title">وضع الضيف</string>
+    <string name="guest_mode_info">يمكنك تجربة التطبيق بدون تسجيل دخول. ستكون بعض الميزات محدودة في وضع الضيف.</string>
+    <string name="guest_features_title">الميزات المتاحة في وضع الضيف</string>
+    <string name="guest_feature_1">محادثة مع المساعد الذكي</string>
+    <string name="guest_feature_2">الوصول إلى الميزات الأساسية</string>
+    <string name="guest_feature_3">تجربة واجهة المستخدم الكاملة</string>
+    <string name="continue_as_guest">المتابعة كضيف</string>
+    
+    <!-- Login Strings -->
+    <string name="welcome_back">مرحباً بعودتك</string>
+    <string name="login_subtitle">سجل دخولك للوصول إلى المساعد الذكي</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="no_account">ليس لديك حساب؟</string>
+    <string name="register">إنشاء حساب</string>
+    
+    <!-- Main Activity Strings -->
+    <string name="home">الرئيسية</string>
+    <string name="chat">المحادثة</string>
+    <string name="history">السجل</string>
+    <string name="profile">الملف الشخصي</string>
+    
+    <!-- Home Strings -->
+    <string name="greeting">مرحباً، %1$s</string>
+    <string name="home_subtitle">كيف يمكنني مساعدتك اليوم؟</string>
+    <string name="quick_chat_title">محادثة سريعة</string>
+    <string name="quick_chat_desc">ابدأ محادثة جديدة مع المساعد الذكي</string>
+    <string name="start_chat">بدء محادثة</string>
+    <string name="features_title">الميزات</string>
+    <string name="recent_chats">المحادثات الأخيرة</string>
+    
+    <!-- Chat Strings -->
+    <string name="chat_placeholder">اكتب رسالتك هنا...</string>
+    <string name="send">إرسال</string>
+    <string name="ai_greeting">مرحباً، كيف يمكنني مساعدتك اليوم؟</string>
+    
+    <!-- History Strings -->
+    <string name="all">الكل</string>
+    <string name="favorites">المفضلة</string>
+    <string name="empty_history_title">لا توجد محادثات</string>
+    <string name="empty_history_desc">ابدأ محادثة جديدة مع المساعد الذكي لتظهر هنا</string>
+    
+    <!-- Profile Strings -->
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="stats_title">الإحصائيات</string>
+    <string name="chats">محادثات</string>
+    <string name="messages">رسائل</string>
+    <string name="settings">الإعدادات</string>
+    <string name="subscription">الاشتراك</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="language">اللغة</string>
+    <string name="logout">تسجيل الخروج</string>
+</resources>
